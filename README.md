@@ -48,7 +48,7 @@
   
   ### Clone
   ```
-    git clone https://github.com/Surya-Prakash-Reddy/Classifying-Cats-and-Dogs.git
+    git clone https://github.com/Surya-Prakash-Reddy/Face-Generation.git
   ```
   
-  After cloning, you can use the `Classifier.ipynb` notebook to learn or modify. You can also use `checkpoint.pth` file if you do not wish to train your model again or build some webapps using the model. If you are using `checkpoint.pth`, you can find the architecture in `Classifier.ipynb`
+  After cloning, you can use the `dlnd_face_generation.ipynb` notebook to modify the notebook or generate realistic looking faces. If you want to learn how to generate images and replicate the notebook, you can use `dlnd_face_generation.html` file.
